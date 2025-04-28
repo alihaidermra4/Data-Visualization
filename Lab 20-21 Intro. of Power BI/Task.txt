@@ -1,0 +1,5 @@
+Check out the details of Power BI via: 
+https://en.wikipedia.org/wiki/Microsoft_Power_BI
+
+Power BI Installation:
+https://www.tutorialspoint.com/power_bi/power_bi_installation_steps.htm
